@@ -3,7 +3,6 @@
 # Krupis
 
 </div>
-
 ---
 
 ### projects
@@ -16,17 +15,5 @@
 | [SKJ](https://github.com/Krupis294/SKJ) | networking / socket programming in python |
 
 *+ private repos related to thesis work (image analysis, camera network forensics)*
-
----
-
-### stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krupis294&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
-&nbsp;&nbsp;
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krupis294&layout=compact&hide_border=true&theme=default&langs_count=6)
-
-</div>
 
 ---
