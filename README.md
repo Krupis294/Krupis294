@@ -3,6 +3,7 @@
 # Krupis
 
 </div>
+
 ---
 
 ### projects
